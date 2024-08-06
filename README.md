@@ -2,38 +2,38 @@ Markdown Cheatsheet<a name="TOP"></a>
 ===================
 
 - - - - 
-# Heading 1 #
+# 제목 1 #
 
-    Markup :  # Heading 1 #
+    Markup :  # 제목 1 #
 
     -OR-
 
     Markup :  ============= (below H1 text)
 
-## Heading 2 ##
+## 제목 2 ##
 
-    Markup :  ## Heading 2 ##
+    Markup :  ## 제목 2 ##
 
     -OR-
 
     Markup: --------------- (below H2 text)
 
-### Heading 3 ###
+### 제목 3 ###
 
     Markup :  ### Heading 3 ###
 
-#### Heading 4 ####
+#### 제목 4 ####
 
     Markup :  #### Heading 4 ####
 
 
-Common text
+일반 텍스트
 
     Markup :  Common text
 
-_Emphasized text_
+_일반 강조 text_
 
-    Markup :  _Emphasized text_ or *Emphasized text*
+    Markup :  _Emphasized text_ or *일반 장조*
 
 ~~Strikethrough text~~
 
